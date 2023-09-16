@@ -1,0 +1,1 @@
+tacos,Tacos "los primos",0-59,3 estrellas,a pie,1800,pizza,Domino's,60-119,4 estrellas,a pie,1000,cafe,cafe ambulante,0-59,1 estrellas,a pie,1800,tacos,"el comal del miedo",0-59,3 estrellas,a pie,1800,tacos,tacos de canasta,60-119,1 estrellas,en metro,1000,
